@@ -46,4 +46,124 @@ nav a {
     font-weight: bold;
 }
 
-/* Faded ink colour for later if needed #625C53, red accent #9B3434,  */
+/* Faded ink color for later if needed #625C53, red accent #9B3434,  */
+
+.corner-image {
+    position: absolute;
+    top: -300px;
+    left: -150px;
+    width: 300px;
+    z-index: 0;
+    opacity: 0.5;
+    transform: rotate(-1deg);
+}
+
+.right-image {
+    position: absolute;
+    top: 190px;
+    right: 0px;
+    width: 150px;
+    z-index: 0;
+    opacity: 0.6;
+    transform: rotate(0deg);
+}
+
+.bottom-image {
+    position: absolute;
+    bottom: -20px;
+    left: -120px;
+    width: 300px;
+    z-index: 0;
+    opacity: 0.5;
+    transform: rotate(-6deg);
+}
+
+.corner-image2 {
+    position: absolute;
+    top: -300px;
+    left: -150px;
+    width: 300px;
+    z-index: 0;
+    opacity: 0.4;
+    transform: rotate(-1deg);
+}
+
+.right-image2 {
+    position: absolute;
+    top: 190px;
+    right: 0px;
+    width: 150px;
+    z-index: 0;
+    opacity: 0.5;
+    transform: rotate(0deg);
+}
+
+.bottom-image2 {
+    position: absolute;
+    bottom: -20px;
+    left: -120px;
+    width: 300px;
+    z-index: 0;
+    opacity: 0.4;
+    transform: rotate(-6deg);
+}
+
+.corner-image3 {
+    position: absolute;
+    top: -300px;
+    left: -150px;
+    width: 300px;
+    z-index: 0;
+    opacity: 0.3;
+    transform: rotate(-1deg);
+}
+
+.right-image3 {
+    position: absolute;
+    top: 190px;
+    right: 0px;
+    width: 150px;
+    z-index: 0;
+    opacity: 0.4;
+    transform: rotate(0deg);
+}
+
+.bottom-image3 {
+    position: absolute;
+    bottom: -20px;
+    left: -120px;
+    width: 300px;
+    z-index: 0;
+    opacity: 0.3;
+    transform: rotate(-6deg);
+}
+
+.corner-image4 {
+    position: absolute;
+    top: -300px;
+    left: -150px;
+    width: 300px;
+    z-index: 0;
+    opacity: 0.2;
+    transform: rotate(-1deg);
+}
+
+.right-image4 {
+    position: absolute;
+    top: 190px;
+    right: 0px;
+    width: 150px;
+    z-index: 0;
+    opacity: 0.3;
+    transform: rotate(0deg);
+}
+
+.bottom-image4 {
+    position: absolute;
+    bottom: -20px;
+    left: -120px;
+    width: 300px;
+    z-index: 0;
+    opacity: 0.2;
+    transform: rotate(-6deg);
+}
