@@ -13,7 +13,7 @@ https://elliewoodward2024-ops.github.io/Portfolio/
 
  - A Home Page
  - A Projects Page
-  - Includes links to other projects
+    -   Includes links to other projects
  - About Me Page
 
 #### References
