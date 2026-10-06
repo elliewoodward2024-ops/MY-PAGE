@@ -176,10 +176,18 @@ nav a {
     display: grid !important;
     grid-template-columns: 1fr 0fr !important;
     gap: 50px !important;
-    margin: 0px auto;
+    margin: 60px auto;
+
 }
 
+.main-container {
+    padding: 25px;
+    min-height: 300px;
+    box-sizing: border-box;
+    border: .5px solid #24211D;
 
+
+}
 
 .secondNav-header {
     font-size: 20px;
@@ -190,7 +198,7 @@ nav a {
     padding: 25px;
     min-height: 300px;
     box-sizing: border-box;
-
+    border: 1px solid #24211D;
     width: 1280px;
 
 }
@@ -230,7 +238,7 @@ nav a {
 .challenge-title {
     font-size: 26px;
     font-weight: bold;
-
+    text-decoration: none;
 }
 
 .enter-button {
@@ -249,5 +257,4 @@ nav a {
 .pic {
     width: 500px;
     padding: 10px;
-    padding-left: 25px;
 }
