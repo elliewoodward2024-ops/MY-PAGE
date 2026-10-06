@@ -174,9 +174,10 @@ nav a {
 
 .newspaper-area {
     display: grid !important;
-    grid-template-columns: 1fr .5fr !important;
+    grid-template-columns: 1fr 0fr !important;
     gap: 50px !important;
     margin: 60px auto;
+
 }
 
 .main-container {
@@ -198,12 +199,13 @@ nav a {
     min-height: 300px;
     box-sizing: border-box;
     border: 1px solid #24211D;
+    width: 1280px;
 
 }
 
 .the-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 20px;
 }
 
@@ -249,4 +251,9 @@ nav a {
 .challenge-section {
     margin-top: 80px;
     margin-bottom: 80px;
+}
+
+.pic {
+    width: 500px;
+    padding: 10px;
 }
